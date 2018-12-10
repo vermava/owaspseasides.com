@@ -36,7 +36,7 @@ This is an introductory training for web application developers, students, inclu
 * \*\*\*\*[Vandana Verma](https://twitter.com/infosecVandana)
 * [Geeta Handa](https://twitter.com/handa_geeta)
 
-Registration Form :- Hands- on Web App Pentesting Workshop
+Registration Form :- {% embed url="https://www.owaspseasides.com/events/wia-infosecgirls" caption="Hands- on Web App Pentesting Workshop" %}
 
 
 
